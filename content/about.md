@@ -10,7 +10,7 @@ You can reach me at pbk1 /yat/ rice.edu
 
 **Education**:
 
-- Bachelors inTechnology, Biological Sciences and Bioengineering, IIT Kanpur, India
+- Bachelors in Technology, Biological Sciences and Bioengineering, IIT Kanpur, India
 - Masters in Sciences, and Engineering, Biomedical Engineering, Johns Hopkins University, Baltimore
 
 
@@ -27,11 +27,11 @@ I'm also working tracking bacterial exchange of antibiotic resistance genes with
 Do contact me if you have anything interesting for my microbes to sniff!
 
 **Other Interests**
-I take a deep interest in scientific teaching and implementing visuals to enable broader dissemenation of scientific knowedge. I also try to stay informed about the current happenings around me, owing to my childhood habit of my two-hour long sessions reading and underlining all the newspapers from the past week. I like to read about interational politics, economics, public health and scientific advances among other things, and a recent interest in historical anthropology of the kind in the book _[Guns, Gerns and Steel](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)_. These topics will eventually feature in some of my writings so keep an eye out!
+I take a deep interest in scientific teaching and implementing visuals to enable broader dissemination of scientific knowledge. I also try to stay informed about the current happenings around me, owing to my childhood habit of my two-hour long sessions reading and underlining all the newspapers from the past week. I like to read about international politics, economics, public health and scientific advances among other things, and a recent interest in historical anthropology of the kind in the book _[Guns, Germs and Steel](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)_. These topics will eventually feature in some of my writings so keep an eye out!
 
 
 **Hobbies**
-I enjoy cooking, trying new cuisines, playing cards, hiking waterfalls, ice skating, skiing and other outdoorsy activities. I have recently taken to podcasts while doing some of the mundane aspects of labwork, here's two that I can recommend - [Lights, Camera, Azadi](https://www.stitcher.com/show/lights-camera-azadi), [Pitchfork economics](https://www.stitcher.com/show/pitchfork-economics-with-nick-hanauer)
+I enjoy cooking, trying new cuisines, playing cards, hiking waterfalls, ice skating, skiing and other outdoorsy activities. I have recently taken to podcasts while doing some of the mundane aspects of lab work, here's two that I can recommend - [Lights, Camera, Azadi](https://www.stitcher.com/show/lights-camera-azadi), [Pitchfork economics](https://www.stitcher.com/show/pitchfork-economics-with-nick-hanauer)
 
 -----------------
 
