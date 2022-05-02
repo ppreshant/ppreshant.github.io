@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: A Hugo website
+title: Prashant's blog
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -17,9 +17,9 @@ menu:
     - name: About
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
+      url: https://github.com/ppreshant
     - name: Twitter
-      url: https://twitter.com/rstudio
+      url: https://twitter.com/prash_kalva
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -34,7 +34,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: me_painting.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark

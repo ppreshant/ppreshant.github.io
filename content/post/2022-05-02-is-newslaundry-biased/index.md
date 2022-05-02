@@ -1,6 +1,6 @@
 ---
 title: "Is Newslaundry biased?"
-author: ''
+author: 'Prashant Kalvapalle'
 date: '2022-05-02'
 slug: is-newslaundry-biased
 categories: journalism
@@ -43,3 +43,4 @@ And for the sake of full disclosure I will conclude by putting on the record my 
 
 3. Two, being a fiscally progressive market proponent, I believe in favouring progressive taxation, including from corporate elites and the use of tax money to keep up key public services such as water, public food distribution system, subsidized or free primary education and quality healthcare, as means to build long term social capital and a productive population along with path of economic well-being. It is my understanding that welfarism in India has been at loggerheads with market thinking and the leverage of big money from corporations to unilaterally influence policy making means that it is worthwhile to question power, as to the motives and stakeholders behind their policies.
 
+Newslaundry image was sourced from Newslaundry, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Newslaundry_logo_new_dark_bg.svg)
