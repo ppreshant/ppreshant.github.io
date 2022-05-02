@@ -3,29 +3,20 @@ date: "2016-05-05T21:48:51-07:00"
 title: About
 ---
 
-###### Prashant Bharadwaj Kalvapalle
+## Prashant Bharadwaj Kalvapalle
 
-Ph.D. Student
-
-Systems, Synthetic, and Physical Biology, Rice University
-
-​
-
-pbk1 /yat/ rice.edu
-
-​
+I'm a Ph.D. Student, at Rice University in Houston, USA. I'm in the Systems, Synthetic, and Physical Biology program here.
+You can reach me at pbk1 /yat/ rice.edu
 
 **Education**:
 
-B.Tech. Biological Sciences and Bioengineering, IIT Kanpur, India
+- Bachelors inTechnology, Biological Sciences and Bioengineering, IIT Kanpur, India
+- Masters in Sciences, and Engineering, Biomedical Engineering, Johns Hopkins University, Baltimore
 
-M.S.E. Biomedical Engineering, Johns Hopkins University, Baltimore
 
-​
+### Interests:
 
-**Interests**:
-
-Research
+**Research**
 
 I am fascinated by microscopic life forms, with all the things they do and the tremendous potential they offer for us to enhance and add to their their natural functions to make them an integral part in our designs for solving human problems, such as climate change, food security, and energy.
 
@@ -34,14 +25,13 @@ For my research, I genetically engineer bacteria to monitor and record chemical 
 I'm also working tracking bacterial exchange of antibiotic resistance genes with their neighbours, which could cause widespread resistance to the use of antibiotics, by using genetic tools that tag the RNA of the bacteria.
 
 Do contact me if you have anything interesting for my microbes to sniff!
-​
 
-Other Interests
-I take a deep interest in keeping informed about the current happenings around me, owing to my childhood habit of my two-hour long sessions reading and underlining all the newspapers from the past week. I like to read about interational politics, economics, public health and scientific advances among other things.
+**Other Interests**
+I take a deep interest in scientific teaching and implementing visuals to enable broader dissemenation of scientific knowedge. I also try to stay informed about the current happenings around me, owing to my childhood habit of my two-hour long sessions reading and underlining all the newspapers from the past week. I like to read about interational politics, economics, public health and scientific advances among other things, and a recent interest in historical anthropology of the kind in the book _[Guns, Gerns and Steel](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)_. These topics will eventually feature in some of my writings so keep an eye out!
 
 
-Hobbies
-I enjoy cooking, trying new cuisines, playing cards, hiking waterfalls, ice skating, skiing and other outdoorsy activities. I have recently taken to podcasts while doing some of the mundane aspects of labwork, here's two that I recommend - [Lights, Camera, Azadi](https://www.stitcher.com/show/lights-camera-azadi), [Pitchfork economics](https://www.stitcher.com/show/pitchfork-economics-with-nick-hanauer)
+**Hobbies**
+I enjoy cooking, trying new cuisines, playing cards, hiking waterfalls, ice skating, skiing and other outdoorsy activities. I have recently taken to podcasts while doing some of the mundane aspects of labwork, here's two that I can recommend - [Lights, Camera, Azadi](https://www.stitcher.com/show/lights-camera-azadi), [Pitchfork economics](https://www.stitcher.com/show/pitchfork-economics-with-nick-hanauer)
 
 -----------------
 
