@@ -2,6 +2,7 @@ _to keep track of to-do lists, ideas for articles and changes to be made_
 
 ## General blog improvements
 - [ ] Add a comments section. See [here](https://clarewest.github.io/blog/post/claps-and-comments-in-blogdown/) for ideas
+	- Need to figure out adding `.Site.Params` variable for `commentsrepo`
 - [ ] Enable spellcheck so I can directly edit the index.md files in obsidian - cleaner view
 - [ ] Change theme, while it is still early. Need to create new website looks like
  
