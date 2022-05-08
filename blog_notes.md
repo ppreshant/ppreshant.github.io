@@ -9,6 +9,8 @@ _to keep track of to-do lists, ideas for articles and changes to be made_
 	- Good themes: [paper-mod](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/); 
 	- Ok, but distracting: [minimo](https://minimo.netlify.app/)
 
+Useful links
+- [CSS basics](https://www.w3schools.com/css/css_intro.asp); [html intro](https://developer.mozilla.org/en-US/docs/Web/HTML/Element);
 # Obsidian features
 - [x] (obsidian) Enable spellcheck so I can directly edit the index.md files - cleaner view
 - [x] Channel screenshots into a good directory by default

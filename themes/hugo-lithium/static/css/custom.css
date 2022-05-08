@@ -1,0 +1,10 @@
+/* Source = Minimo theme 
+https://github.com/MunifTanjim/minimo/blob/master/static/assets/css/rtl.bf9d5394.css */
+
+blockquote {
+  padding-left: 1em;
+  padding-right: 1em;
+  border-left: 0.2em solid #bdbdbd;
+  border-right: 0;
+  background: #f2f2f2; /* background light gray, picked by hand */
+}
