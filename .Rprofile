@@ -21,3 +21,6 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.98.0")
+
+# Set default author name
+options(blogdown.author = "Prashant Kalvapalle")
