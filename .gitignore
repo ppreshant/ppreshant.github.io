@@ -3,6 +3,10 @@
 .RData
 .Ruserdata
 .obsidian/
+.DS_Store
+Thumbs.db
+.hugo_build.lock
 attachments/
-public/
-resources/
+/public/
+/resources/
+

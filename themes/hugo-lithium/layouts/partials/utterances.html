@@ -1,15 +1,15 @@
-<section id="comments">
-    <div class="py-3 content">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-sm-12 col-lg-8">
-                    <div class="comments">
-                        <script src="https://utteranc.es/client.js" repo="{{ .Site.Params.commentsrepo }}"
-                            issue-term="pathname" label="comment" theme="github-light" crossorigin="anonymous" async>
-                            </script>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- script for utterances 
+
+Enable Utterances -
+Add the following script tag to your blog's template. Position it where you want the comments to appear. Customize the layout using the .utterances and .utterances-frame selectors. 
+
+from website : https://utteranc.es/ -->
+
+<script src="https://utteranc.es/client.js"
+        repo="clarewest/blog-comments"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

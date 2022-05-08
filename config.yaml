@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://prashant-blogspot.netlify.app/
 languageCode: en-us
 title: Prashant's blog
 theme: hugo-lithium
@@ -36,6 +36,7 @@ params:
     height: 50
     url: me_painting.png
     width: 50
+    commentsrepo: ppreshant/ppreshant.github.io
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
